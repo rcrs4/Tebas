@@ -4,11 +4,11 @@
 O SOP é um mecanismo de segurança que restringe como documentos e scripts de uma origem interagem com os dados de outra origem, ou seja ele isola as duas origens diminuindo a chance de ter um potencial documento ou script malicioso sendo um vetor de ataque.
 
 ### O que define origem?
-Uma origem é definida por três componentes, o seu protocolo, a sua porta e o seu host.
-por exemplo em https://example.com:443/directory
-O host seria o example.com
-O protocolo seria o https://
-A porta seria 443
+Uma origem é definida por três componentes, o seu protocolo, a sua porta e o seu host.  
+Por exemplo em https://example.com:443/directory  
+O host seria o example.com  
+O protocolo seria o https://  
+A porta seria 443  
 
 http://web.example.com/dir/inner/another.html  
 http://docs.example.com/dir/page.html  
