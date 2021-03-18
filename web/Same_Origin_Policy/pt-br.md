@@ -38,13 +38,10 @@ O CORS	 é feito através de alguns headers, mas os principais são os headers:
 [Exercicios](https://portswigger.net/web-security/cors)
 
 
-**Referências**
-
-[Vulnerabilidade e Exercicios](https://portswigger.net/web-security/cors)
-
-[Same Origin Policy](https://developer.mozilla.org/pt-PT/docs/Web/Security/Same-origin_policy)
-
-[Cross Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+**Referências**  
+[Vulnerabilidade e Exercicios](https://portswigger.net/web-security/cors)  
+[Same Origin Policy](https://developer.mozilla.org/pt-PT/docs/Web/Security/Same-origin_policy)  
+[Cross Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)  
 
 ![Logo Tebas](https://github.com/rcrs4/Tebas/blob/novas-aulas/LogoIcon.png)
 
