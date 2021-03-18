@@ -10,10 +10,10 @@ O host seria o example.com
 O protocolo seria o https://
 A porta seria 443
 
-http://web.example.com/dir/inner/another.html	
-http://docs.example.com/dir/page.html	
-https://web.example.com/page.html	
-http://web.example.com/dir2/other.html	
+http://web.example.com/dir/inner/another.html  
+http://docs.example.com/dir/page.html  
+https://web.example.com/page.html  
+http://web.example.com/dir2/other.html  
 
 Quais desses são da mesma origem?
 
@@ -38,9 +38,12 @@ O CORS	 é feito através de alguns headers, mas os principais são os headers:
 [Exercicios](https://portswigger.net/web-security/cors)
 
 
-**Referências**		
-[Vulnerabilidade e Exercicios](https://portswigger.net/web-security/cors)	
-[Same Origin Policy](https://developer.mozilla.org/pt-PT/docs/Web/Security/Same-origin_policy)	
+**Referências**
+
+[Vulnerabilidade e Exercicios](https://portswigger.net/web-security/cors)
+
+[Same Origin Policy](https://developer.mozilla.org/pt-PT/docs/Web/Security/Same-origin_policy)
+
 [Cross Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
-Feito por Rafael Carneiro Reis de Souza	[Logo Tebas](/logo_tebas.png)
+Feito por Rafael Carneiro Reis de Souza	![Logo Tebas](https://github.com/rcrs4/Tebas/logo_tebas.png)
