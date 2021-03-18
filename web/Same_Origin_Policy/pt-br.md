@@ -46,4 +46,6 @@ O CORS	 é feito através de alguns headers, mas os principais são os headers:
 
 [Cross Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
-Feito por Rafael Carneiro Reis de Souza	![Logo Tebas](https://github.com/rcrs4/Tebas/blob/novas-aulas/LogoIcon.png)
+![Logo Tebas](https://github.com/rcrs4/Tebas/blob/novas-aulas/LogoIcon.png)
+
+Feito por Rafael Carneiro Reis de Souza
