@@ -28,9 +28,10 @@ Quais desses são da mesma origem?
 ### Como liberar acessos entre origens?
 **Cross-origin resource sharing** é um mecanismo baseado nos headers do HTTP, que libera o acesso de recursos entre origens diferentes.
 
-O CORS	 é feito através de alguns headers, mas os principais são os headers:	
+O CORS é feito através de alguns headers no _response_ HTTP, mas os principais são os headers:	
 * Access-Control-Allow-Origin
 	* As origens especificadas nesse header tem o direito dos acessos aos recursos entre origens
+	* Para especificar qual origem o host que está fazendo o request tem, é utilizado o header Origin: <example.com> no _request_ HTTP
 * Access-Control-Allow-Credentials
 	* Um booleano, caso seja True, ele utiliza as credenciais, como cookies e HTTP Authentication ao fazer o request cross-origin
 
