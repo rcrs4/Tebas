@@ -34,6 +34,10 @@ O CORS	 é feito através de alguns headers, mas os principais são os headers:
 * Access-Control-Allow-Credentials
 	* Um booleano, caso seja True, ele utiliza as credenciais, como cookies e HTTP Authentication ao fazer o request cross-origin
 
+### Como fazer request entre origens?
+
+Uma forma muito comum de fazer request entre origens é através da classe de JavaScript [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) nessa classe, existem muitos metodos para configurar o request, vale ressaltar também que não só retorna dados XML, mas qualquer dado.
+
 #### Vamos as práticas?
 [Exercicios](https://portswigger.net/web-security/cors)
 
