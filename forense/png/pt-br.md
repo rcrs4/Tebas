@@ -60,7 +60,7 @@ Convenção no nome dos _chunks_, suponhamos que tenhamos um bloco chamado de **
       
 	* **IEND**: Campo que deve aparecer no final da imagem, possuí tamanho e conteúdo zerados, já que sua funcionalidade é apenas representar o final da imagem.
 
-* **_Chunks_ auxiliares** (Algumas especifiações foram resumidas para simplificação do conteúdo, caso tenha curiosidade ou interesse referências serão deixadas no final do documento para que possam ser consultadas): 
+* **_Chunks_ auxiliares** (Algumas especificações foram resumidas para simplificação do conteúdo, caso tenha curiosidade ou interesse referências serão deixadas no final do documento para que possam ser consultadas): 
 	* **cHRM** (Proveniente de _Primary chromaticities and white point_): Especificar as [cromáticas CIE x,y,z de 1931](https://www.hisour.com/pt/cie-1931-color-space-24840/) das primárias vermelha, verde e azul usadas na imagem, e o ponto branco referenciado.
 	
 	* **gAMA** (Proveniente de _Image gamma_): Especifica a relação entre as amostras de imagem e a intensidade de saída do display desejada.
