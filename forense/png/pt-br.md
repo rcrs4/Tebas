@@ -75,7 +75,7 @@ Convenção no nome dos _chunks_, suponhamos que tenhamos um bloco chamado de **
 	
 	* **hIST** (Proveniente de _Image histogram_): Fornece a frequência de uso aproximada de cada cor na paleta de cores. Quando este se encontra presente, é obrigatório a presença do PLTE também.
 	
-	* **tRNS**: Especifica valores alfa associados a entradas de paleta (para imagens de cores indexadas) ou uma única cor transparente (para escala de cinza e imagens de cores verdadeiras)
+	* **tRNS** (Proveniente de _Transparency_): Especifica valores alfa associados a entradas de paleta (para imagens de cores indexadas) ou uma única cor transparente (para escala de cinza e imagens de cores verdadeiras)
 	
 	* **pHYs** (Proveniente de _Physical pixel dimensions_): Especifica o tamanho/proporção em pixel pretendido para exibição da imagem. Caso este não se encontre presente, acredita-se que os pixels sejam quadrados, e o tamanho físico de cada pixel é desconhecido.
 	
