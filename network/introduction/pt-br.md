@@ -30,6 +30,7 @@ Um exemplo uma comunicação usando TCP é a seguinte:
 ![Exemplo TCP](https://memoria.rnp.br/newsgen/9901/fig02a.gif)
 
 ### Packets
+Na internet o dado é dividido em pedaços menores para serem transmitidos e quando esses dados se juntam com um header que contém informações sobre aqueles dados, esses dois juntos são chamados de pacotes, o que são transmitidos pela rede são pacotes.
 
 ## Internet sobre camadas
 A Internet é dividida em camadas, cada camada tem seus protocolos e seus componentes, existem 7 camadas de redes, mas que podem ser resumidas em 5
